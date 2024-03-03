@@ -14,7 +14,7 @@
 </ul>
 <br>
 <div align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="/fmeringdal/nettu-meet/blob/main/docs/app.png"><img src="/fmeringdal/nettu-meet/raw/main/docs/app.png" alt="" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/fmeringdal/nettu-meet/blob/main/docs/app.png"><img src="https://github.com/fmeringdal/nettu-meet/raw/main/docs/app.png" alt="" style="max-width: 100%;"></a>
 </div>
 <br>
 <br>
